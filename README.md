@@ -1,7 +1,6 @@
 <h3>Hi ! I'm Iskander</h3>
 <h4>I'm a programming student in Belgium</h3>
 
-
 - ⚙️ I’m currently working on [Center Of Creators](https://discord.gg/TuF7zq2fRC)
 - 📘 I am currently learning **JavaScript**
 
